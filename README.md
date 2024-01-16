@@ -12,7 +12,10 @@ flowchart TD
     H --> I[Show liaise-projects and others after a few days] --> Q([END])
 ```
 
-## New Idea/Project 
+## New Idea/Project workflow
+This workflow addresses the following scenarios:
+1. A project that is neither TFP nor a liaise project. (Whether it's interested to be a TFP liaise or not)
+2. A new idea that pro-Palestine wants to discuss.
 
 ### Submit the idea/project
 
@@ -44,5 +47,12 @@ flowchart TD
 ```
 
 ## Collaborator Matching
+An existing project workflow to request volunteering help by using **Bot Command** within their channel
+```mermaid
+flowchart TD
+    A([Existing Project Request]) --> B[project_moderator send Bot command for requests within the channel]
+    B --> C{Volunteer responded} 
+    C --> |No| D[Wait 24 hours] --> E[Send new Bot Command] --> B
+    C ----> |Yes| Q([END])
+```
 
-**Bot Command**:An existing project
