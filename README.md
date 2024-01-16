@@ -23,8 +23,8 @@ This workflow addresses the following scenarios:
 flowchart TD
     A([Go to Submit a New Idea/Project]) --> B[Open a Ticket]
     B --> C[Mee6 Creates a ticket and display the template]
-    C --> D{The Project needs PM?}
-    D -->|Yes| E[Ping PM channel] --> H[PM assigned and claim the ticket] --> I[PM setup a meeting with the owner] --> J[PM discuss the decision to _new_project_reviewer]
+    C --> D{The Project needs validation?}
+    D -->|Yes| E[Ping PM channel] --> H[Validator assigned and claim the ticket] --> I[Validator setup a meeting with the owner if needed] --> J[Validator discuss the decision to _new_project_reviewer]
     D --> |No| F[_new_project_reviewer create a post in #new-ideas]
     J --> L{Project Accepted?} --> |Yes| F
     F --> G([Close the ticket])
@@ -36,7 +36,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     A([New Idea/Project Post]) --> B[Add tags and owner to the post]
-    B --> C{{status = new}} --> D[_new_project_reviewer/PM send Bot command for requests]
+    B --> C{{status = new}} --> D[_new_project_reviewer/Validator send Bot command for requests]
     D --> E{Volunteer responded} 
     E --> |Yes| F{{Status = In Progress}} ---> G[Remove the corresponding tag]
     E --> |No| H[Wait 24 hours] --> I[Send new Bot Command] --> D
