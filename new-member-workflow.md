@@ -1,5 +1,3 @@
-# Policy
-
 ## New member workflow
 
 ```mermaid
