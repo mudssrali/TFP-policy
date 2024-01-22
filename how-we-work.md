@@ -16,11 +16,15 @@ initiatives that need technical help.
 
 At the pro-Israel end of the spectrum, we want to help convert overtly genocidal conversations
 and extreme pro-Israel bias which is supporting amd whitewashing the genocide and occupation 
-and oppression of the Palestinian people, into statements supporting peace and unity between 
-the two groups.
+and oppression of the Palestinian people, into statements supporting peace and unity between
+all peoples in Palestine and Israel.
 
 On the pro-Palestinian end of the spectrum, we want to enable people concerned about the occupation,
-genocide, settlements, apartheid, and other Israeli oppression of Palestine, to speak up.
+genocide, settlements, apartheid, and other Israeli oppression of Palestine, to speak up freely and
+without hesitation.
+
+Most people, however, fall in the middle, believing "it's complicated". We want to enable these folks
+to learn facts, not spin, which heavily favor the cause of Palestinian equality and freedom.
 
 ## Specific tech focus
 
