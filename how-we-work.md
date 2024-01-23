@@ -15,7 +15,7 @@ initiatives that need technical help.
 ## Overton window shift
 
 At the pro-Israel end of the spectrum, we want to help convert overtly genocidal conversations
-and extreme pro-Israel bias which is supporting amd whitewashing the genocide and occupation 
+and extreme pro-Israel bias which is supporting and whitewashing the genocide and occupation 
 and oppression of the Palestinian people, into statements supporting peace and unity between
 all peoples in Palestine and Israel.
 
@@ -49,7 +49,7 @@ and then scaling.
 Our mission supports projects that are one-degree removed from the core mission, as these often
 boost and support the core mission, so long as they are connected to changing minds in the US-based
 tech scene in some -- possibly creative -- way. One degree removed means that if it involves Palestine
-and tech, For example, a project to raise money for Palestinian startups is conencted to mission because 
+and tech, For example, a project to raise money for Palestinian startups is connected to mission because 
 it's the tech community helping Palestine, and it affords to opportunity to get the US-based tech scene 
 talking about, and publicly discussing investments in Palestine.
 

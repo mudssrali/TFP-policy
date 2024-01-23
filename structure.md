@@ -45,7 +45,7 @@ An official project can be created from community projects, external projects, o
 which matches our mission. It should:
 - address our mission directly, or help significantly with it
 - have known maintainers (who can be anonymous) commit to it for an appropriate length of time,
-  as well as commiting to sunset it after that time if appropriate
+  as well as committing to sunset it after that time if appropriate
 - be responsive to feedback from the board and management if there is
   misalignment
 - adhere to our code of conduct
